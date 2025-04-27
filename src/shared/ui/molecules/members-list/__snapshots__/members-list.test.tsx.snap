@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 css-1e2sded-MuiPaper-root"
+    role="list"
+  >
+    <p
+      class="MuiTypography-root MuiTypography-body1 css-z2eky3-MuiTypography-root"
+    >
+      Members list
+    </p>
+    <div
+      class="MuiBox-root css-163g6ns"
+    />
+  </div>
+</div>
+`;

@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Link Match Snapshot 1`] = `
+<div>
+  <a
+    class="css-0"
+    href="/"
+  >
+    Test
+  </a>
+</div>
+`;
+
+exports[`Rendered 1`] = `
+<div>
+  <a
+    class="css-0"
+    href="/"
+  >
+    Test
+  </a>
+</div>
+`;
